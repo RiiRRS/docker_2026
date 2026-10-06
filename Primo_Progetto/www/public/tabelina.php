@@ -41,4 +41,3 @@ echo "<a href='tavola-pitagorica.php'>Torna alla tavola pitagorica</a>"
 ?>
 </body>
 </html>
- 
