@@ -10,7 +10,7 @@
 <main class="container" style="max-width: 500px">
     <article>
         <header>
-            <<h1 style="text-align: center">Accedi alla pagina</h1>
+            <h1 style="text-align: center">Accedi alla pagina</h1>
         </header>
 
         <form action="controllo.php" method="post">
