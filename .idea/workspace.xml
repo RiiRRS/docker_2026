@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="badc9cb2-fcc6-4d0a-a804-5a84ae844105" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/db-data/load.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/db-init/01_schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/db-init/02_seed.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/docker-compose.override.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/docs/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/conf/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/public/css/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/public/img/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/public/js/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/src/Controller/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/src/Model/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/src/Util/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-Plates/www/templates/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primo_Progetto/www/public/VERIFICA.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primo_Progetto/www/public/parcheggio/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primo_Progetto/www/public/parcheggio/spedizione.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primo_Progetto/www/public/preparazione/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primo_Progetto/www/public/preparazione/noleggio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primo_Progetto/www/public/preparazione/riepilogo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +24,7 @@
     </execution>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="458" />
+    <option name="cachedIndexableFilesCount" value="888" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,61 +43,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1396608922590274" />
-      <entry key="MS500" value="1.6745562603124826" />
-      <entry key="S2" value="1.9595746443610702" />
-      <entry key="S5" value="2.407618790188251" />
-      <entry key="S10" value="3.1035548782449145" />
-      <entry key="S30" value="5.281739983973173" />
-      <entry key="S60" value="7.991133140461114" />
-      <entry key="M2" value="13.81139352590668" />
-      <entry key="M5" value="34.64475701090309" />
-      <entry key="M10" value="59.89975465968592" />
-      <entry key="M15" value="77.77397677007653" />
-      <entry key="M30" value="122.83969041239665" />
-      <entry key="H1" value="206.92398732038825" />
-      <entry key="H2" value="326.745162179358" />
-      <entry key="H4" value="443.2203607470981" />
-      <entry key="D1" value="598.5264186127835" />
-      <entry key="W1" value="632.9842206559772" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000105147" />
+      <entry key="S30" value="1.000590404335405" />
+      <entry key="S60" value="1.059740646626396" />
+      <entry key="M2" value="1.7139110430281281" />
+      <entry key="M5" value="5.530904097532255" />
+      <entry key="M10" value="14.22875735664884" />
+      <entry key="M15" value="24.700729720005462" />
+      <entry key="M30" value="61.80492013566702" />
+      <entry key="H1" value="143.65857963934448" />
+      <entry key="H2" value="281.0334971334753" />
+      <entry key="H4" value="435.0599944798555" />
+      <entry key="D1" value="666.4400236029484" />
+      <entry key="W1" value="721.3007026607518" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="6.970114507798613E-67" />
-      <entry key="S2" value="2.889415367202414E-17" />
-      <entry key="S5" value="2.422835850688475E-7" />
-      <entry key="S10" value="4.922231049725799E-4" />
-      <entry key="S30" value="0.07895666190150652" />
-      <entry key="S60" value="0.28161682971592905" />
-      <entry key="M2" value="0.589473033531092" />
-      <entry key="M5" value="2.707600343611156" />
-      <entry key="M10" value="8.898111600379377" />
-      <entry key="M15" value="15.086239568905548" />
-      <entry key="M30" value="30.435004377334874" />
-      <entry key="H1" value="51.48616140664015" />
-      <entry key="H2" value="74.43046457792065" />
-      <entry key="H4" value="93.49194444876284" />
-      <entry key="D1" value="116.3636665750344" />
-      <entry key="W1" value="121.1692164124678" />
+      <entry key="MS500" value="4.094268266381458E-228" />
+      <entry key="S2" value="1.4250689492923804E-57" />
+      <entry key="S5" value="1.9712679505784817E-23" />
+      <entry key="S10" value="5.485631095516619E-12" />
+      <entry key="S30" value="2.8539454911575245E-4" />
+      <entry key="S60" value="0.028118261864546835" />
+      <entry key="M2" value="0.3186853609134461" />
+      <entry key="M5" value="1.7483238260880274" />
+      <entry key="M10" value="4.216282875099416" />
+      <entry key="M15" value="6.678121260672656" />
+      <entry key="M30" value="15.243696832190848" />
+      <entry key="H1" value="34.43740605752087" />
+      <entry key="H2" value="63.228857547694865" />
+      <entry key="H4" value="91.85209021364027" />
+      <entry key="D1" value="130.74304300880758" />
+      <entry key="W1" value="139.4724441290136" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.2447729441657418" />
-      <entry key="MS500" value="1.3118353491721093" />
-      <entry key="S2" value="1.8493611136395312" />
-      <entry key="S5" value="2.350769471801815" />
-      <entry key="S10" value="3.0661026124717985" />
-      <entry key="S30" value="5.333798746645561" />
-      <entry key="S60" value="8.2468502655209" />
-      <entry key="M2" value="14.377925805067733" />
-      <entry key="M5" value="37.32304952418439" />
-      <entry key="M10" value="68.75715832388849" />
-      <entry key="M15" value="92.81450695336379" />
-      <entry key="M30" value="153.22585811769994" />
-      <entry key="H1" value="258.3653864206299" />
-      <entry key="H2" value="401.14105697693776" />
-      <entry key="H4" value="536.6896655882658" />
-      <entry key="D1" value="714.8852002056045" />
-      <entry key="W1" value="754.1527051955394" />
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.9848664428955506" />
+      <entry key="S2" value="0.9961949481330542" />
+      <entry key="S5" value="0.9984762383082793" />
+      <entry key="S10" value="0.9992378287172345" />
+      <entry key="S30" value="1.0006156682934348" />
+      <entry key="S60" value="1.0874395528806153" />
+      <entry key="M2" value="2.0305341421699943" />
+      <entry key="M5" value="7.271614769841512" />
+      <entry key="M10" value="18.432327692425062" />
+      <entry key="M15" value="31.363666347221354" />
+      <entry key="M30" value="77.02799673919684" />
+      <entry key="H1" value="178.0690770968473" />
+      <entry key="H2" value="344.23509058943745" />
+      <entry key="H4" value="526.8911126499911" />
+      <entry key="D1" value="797.1778284106317" />
+      <entry key="W1" value="860.7723412096597" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -158,6 +144,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\76689843\Documents\GitHub\docker_2026\Primo_Progetto\www\public" />
+      <recent name="C:\Users\76689843\Documents\GitHub\docker_2026\Primo_Progetto\www\public\parcheggio" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -192,6 +179,8 @@
       <workItem from="1793441212447" duration="369000" />
       <workItem from="1793441785966" duration="163000" />
       <workItem from="1793442089730" duration="1310000" />
+      <workItem from="1793696983944" duration="5206000" />
+      <workItem from="1794046310005" duration="197000" />
     </task>
     <servers />
   </component>
